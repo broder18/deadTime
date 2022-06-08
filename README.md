@@ -1,2 +1,2 @@
 # deadTime
-Just fun
+Just a fun script for urgent and extremely important work.
